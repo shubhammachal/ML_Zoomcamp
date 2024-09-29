@@ -1,1 +1,2 @@
 # ML_Zoomcamp
+This repository is a comprehensive collection of resources for the Machine Learning Zoom Camp by Datatalks.club. It includes all the course materials, detailed notes, assigned homework, and Jupyter notebook. It is organized to support my own learning journey, providing easy access to resources that help reinforce key machine learning concepts. Each component is carefully documented to aid in understanding and serves as a personal reference for the work I've completed throughout the course.
